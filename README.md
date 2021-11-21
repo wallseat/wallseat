@@ -7,6 +7,7 @@
 #### 📘 Works with:
 - 🟩 Python3 (Main language. Any type of task🎓)
 - 🟩 Docker + docker-compose
+- 🟩 SQL (SQLite, MySQL, MSSQL, PostgreSQL~)
 - 🟩 JS (Mythril, React, Vue~)
 - 🟩 CSS (Less, SCSS, Tailwind)
 - 🟩 С (♥️)
