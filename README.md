@@ -14,3 +14,5 @@
 - 🟨 C++ (Without new standards)
 - 🟨 С# (Have some projects)
 - 🟨 Java (Same as C #. Used in a couple of projects)
+
+#### 💼 Contacts: [Telegram](https://t.me/wallseat), [Mail](mailto:wallseat@gmail.com), [VK](https://vk.com/idwallseat)
