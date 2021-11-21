@@ -6,10 +6,10 @@
 
 #### 📘 Works with:
 - 🟩 Python3 (Main language. Any type of task🎓)
+- 🟩 Docker + docker-compose
 - 🟩 JS (Mythril, React, Vue~)
 - 🟩 CSS (Less, SCSS, Tailwind)
 - 🟩 С (♥️)
 - 🟨 C++ (Without new standards)
 - 🟨 С# (Have some projects)
 - 🟨 Java (Same as C #. Used in a couple of projects)
-
