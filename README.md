@@ -1,16 +1,15 @@
-### Hi there 👋
+### Stanislav Lyubovsky (aka. wallseat)
+---
+#### 👨 About me:
+- 🏠 Location: Moscow
+- 🎓 Edu: MIREA, Institute for Integrated Safety and Special Instrumentation
 
-<!--
-**wallseat/wallseat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📘 Works with:
+- 🟩 Python3 (Main language. Any type of task🎓)
+- 🟩 JS (Mythril, React, Vue~)
+- 🟩 CSS (Less, SCSS, Tailwind)
+- 🟩 С (♥️)
+- 🟨 C++ (Without new standards)
+- 🟨 С# (Have some projects)
+- 🟨 Java (Same as C #. Used in a couple of projects)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
