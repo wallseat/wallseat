@@ -1,4 +1,4 @@
-![header](header.jpg)
+![header](header.gif)
 ### <p align=center >Stanislav Lyubovsky (aka. wallseat)</p>
 ---
 
