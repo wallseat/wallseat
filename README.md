@@ -1,5 +1,8 @@
-### Stanislav Lyubovsky (aka. wallseat)
+![header](header.jpg)
+### <p align=center >Stanislav Lyubovsky (aka. wallseat)</p>
 ---
+
+
 #### 👨 About me:
 - 🏠 Location: Moscow
 - 🎓 Edu: MIREA, Institute for Integrated Safety and Special Instrumentation
