@@ -13,6 +13,7 @@
   <img alt="Git" height="32px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
   <img alt="Docker" height="32px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
   <img alt="AWS" height="32px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
+  <img alt="Terraform" height="32ps" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" />
   <br />
 </p>
 
