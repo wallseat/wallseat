@@ -1,5 +1,6 @@
 <p align="center">
   <img alt="Python" height="32px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+  <img alt="Rust" height="32px" src="https://cdn.worldvectorlogo.com/logos/rust.svg" />
   <img alt="CSharp" height="32px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
   <img alt="CPP" height="32px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
   <img alt="C" height="32px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
@@ -13,7 +14,7 @@
   <img alt="Git" height="32px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
   <img alt="Docker" height="32px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
   <img alt="AWS" height="32px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
-  <img alt="Terraform" height="32ps" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" />
+  <img alt="Terraform" height="32px" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" />
   <br />
 </p>
 
@@ -32,9 +33,9 @@
 ```python
 class About:
   name: str                = "Stanislav Lyubovsky"
-  langs: list[str]         = [ "Python", "C#", "C", "C++", "Js", "Java"]
+  langs: list[str]         = [ "Python", "Rust", "C#", "C", "C++", "Js", "Java"]
   fav_theme: list[str]     = [ "Dracula", "Material" ]
-  editors: list[str]       = [ "VS Code", "Pycharm" ]
+  editors: list[str]       = [ "VS Code", ]
   education: str           = "Studying at RTU MIREA. Computer Science."
   contacts: dict[str, str] = {
     "Telegram": "@wallseat",
