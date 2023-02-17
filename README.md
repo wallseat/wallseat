@@ -28,8 +28,6 @@
   </a>
 </p>
 
-<h4>
-
 ```python
 class About:
   name: str                = "Stanislav Lyubovsky"
@@ -43,4 +41,3 @@ class About:
     "VK": "idwallseat"
   }
 ```
-</h4>
