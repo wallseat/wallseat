@@ -23,7 +23,7 @@
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallseat&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=19131a88&layout=compact&card_width=250&text_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallseat&hide=Jupyter%20Notebook&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=19131a88&layout=compact&card_width=250&text_color=0969da">
   </a>
 </p>
 
