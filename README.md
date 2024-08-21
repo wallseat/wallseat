@@ -32,7 +32,7 @@
 class About:
   name: str                = "Stanislav Lyubovsky"
   langs: list[str]         = [ "Python", "Rust", "C#", "C", "C++", "Js", "Java"]
-  education: str           = "Studying at RTU MIREA. Computer Science."
+  education: str           = "RTU MIREA. Computer Science."
   contacts: dict[str, str] = {
     "Telegram": "wallseat",
     "Email": "wallseat@gmail.com"
